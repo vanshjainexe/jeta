@@ -48,7 +48,7 @@ and then:
 
 DONES!
 We'd be happy to collaborate and enhance this project!
-
+Please do consider starring this project if you like it.
 
 
 
